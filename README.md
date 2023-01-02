@@ -1,3 +1,1 @@
 # accounting
-
-banking account manager
